@@ -28,7 +28,7 @@
 
 ```text
 Name        Lakshy Rana
-Role        Software Engineering Student (2nd Year B.Tech CSE)
+Role        Software Engineering Student (3rd Year B.Tech CSE)
 University  Guru Jambheshwar University of Science & Technology, Hisar
 Stack       MERN · C++ · SQL · Python · Linux
 Currently   Building projects · Grinding DSA · Preparing for internships
@@ -36,7 +36,7 @@ Currently   Building projects · Grinding DSA · Preparing for internships
 
 I study Computer Science, but I think like a software engineer. I understand the full stack - how a request travels from a browser through Node.js into MongoDB, how memory works in C++, how a database index changes a query from slow to instant, and how Linux ties everything together underneath.
 
-I'm in my 2nd year at GJUST. I've built real projects, solved 100+ LeetCode problems in C++, and earned certifications across AI, ML, and security. I'm not trying to look experienced - I'm trying to get there, and I do that by building.
+I'm in my 3rd year at GJUST. I've built real projects, solved 100+ LeetCode problems in C++, and earned certifications across AI, ML, and security. I'm not trying to look experienced - I'm trying to get there, and I do that by building.
 
 **Currently open to:** software engineering internships · open source collaboration · hackathon teams
 
